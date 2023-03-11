@@ -8,7 +8,7 @@ import {dingDongBot, getMessagePayload, LOGPRE} from "./helper";
 // log.level("silly");
 
 const puppet = new PuppetPadlocal({
-    token: ">>>> YOUR_PADLOCAL_TOKEN <<<<"
+    token: "695801a12a734df3900007a00a5641a7"
 })
 
 const bot = WechatyBuilder.build({
